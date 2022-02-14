@@ -3,7 +3,12 @@ content_type: resource
 description: This file contains information regarding lecture 3.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-581-international-economics-i-spring-2013/df9dfb232c5e1745a69bff1570184347_MIT14_581S13_classnotes3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 3 Notes
+type: OCWFile
 uid: df9dfb23-2c5e-1745-a69b-ff1570184347
 ---

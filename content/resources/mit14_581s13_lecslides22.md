@@ -3,7 +3,12 @@ content_type: resource
 description: This resource contains information regarding lecture slide 22.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/14-581-international-economics-i-spring-2013/c021427d1e8bd274ec876c0e466cae9a_MIT14_581S13_Lecslides22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: Session 22 lecture slides
+type: OCWFile
 uid: c021427d-1e8b-d274-ec87-6c0e466cae9a
 ---
