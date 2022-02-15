@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: Session 14 lecture slides
-type: OCWFile
 uid: 85ecc521-0c6d-a296-5d34-47db9c7f39e0
 ---
