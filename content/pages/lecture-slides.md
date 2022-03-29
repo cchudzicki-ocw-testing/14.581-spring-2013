@@ -31,7 +31,7 @@ LECTURE SLIDES
 Gains From Trade and the Law of Comparative Advantage (Theory)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8d2727df-9d33-9402-1435-e575cc8d68e0 "Session 1 lecture slides (PDF)" %}}
+{{% resource_link 8d2727df-9d33-9402-1435-e575cc8d68e0 "Session 1 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +55,7 @@ The Ricardian Model (Theory, Part I)
 The Ricardian Model, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 27f554c5-ae52-e385-40fe-cf338c3d7119 "Session 3 lecture slides (PDF)" %}}
+{{% resource_link 27f554c5-ae52-e385-40fe-cf338c3d7119 "Session 3 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ The Ricardian Model, (cont.) (Theory, Part II)
 The Assignment Model Approach (Theory)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 12a5a72a-57c5-cb21-fc5d-c3c6af00bcbf "Session 4 lecture slides (PDF)" %}}
+{{% resource_link 12a5a72a-57c5-cb21-fc5d-c3c6af00bcbf "Session 4 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +115,7 @@ The Assignment Model Approach (Empirics)
 The Heckscher-Ohlin Model (Theory, Part I)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c0359c07-3b8b-8568-9663-f6d69deb2e93 "Session 8 lecture slides (PDF)" %}}
+{{% resource_link c0359c07-3b8b-8568-9663-f6d69deb2e93 "Session 8 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +127,7 @@ The Heckscher-Ohlin Model (Theory, Part I)
 The Heckscher-Ohlin Model, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 0f162de3-ced6-d75d-b4b1-18ac8be7dc55 "Session 9 lecture slides (PDF)" %}}
+{{% resource_link 0f162de3-ced6-d75d-b4b1-18ac8be7dc55 "Session 9 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +187,7 @@ Trade Theory with Firm-Level Heterogeneity, (cont.) (Empirics, Part II)
 Trade Theory with Firm-Level Heterogeneity (Theory, Part I)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 85ecc521-0c6d-a296-5d34-47db9c7f39e0 "Session 14 lecture slides (PDF)" %}}
+{{% resource_link 85ecc521-0c6d-a296-5d34-47db9c7f39e0 "Session 14 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +199,7 @@ Trade Theory with Firm-Level Heterogeneity (Theory, Part I)
 Trade Theory with Firm-Level Heterogeneity, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 367e4309-dbc3-3cd5-7da3-664146619674 "Session 15 lecture slides (PDF)" %}}
+{{% resource_link 367e4309-dbc3-3cd5-7da3-664146619674 "Session 15 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +295,7 @@ Economic Geography, (cont.) (Empirics, Part II)
 Political Economy of Trade Policy and the WTO (Theory, Part I)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2f5d40ef-dfa1-8ecc-961e-e4c28a34ddb7 "Session 23 lecture slides (PDF)" %}}
+{{% resource_link 2f5d40ef-dfa1-8ecc-961e-e4c28a34ddb7 "Session 23 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +307,7 @@ Political Economy of Trade Policy and the WTO (Theory, Part I)
 Political Economy of Trade Policy and the WTO, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 450bb86a-68d0-fedd-ac6a-94ddd5151ebc "Session 24 lecture slides (PDF)" %}}
+{{% resource_link 450bb86a-68d0-fedd-ac6a-94ddd5151ebc "Session 24 lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
