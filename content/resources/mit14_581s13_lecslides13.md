@@ -5,6 +5,7 @@ file: /courses/14-581-international-economics-i-spring-2013/8c181a04047b0d071cb9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
